@@ -1,0 +1,6 @@
+{
+  "name": "HunterPay",
+  "description": "Aplikasi Pembayaran & Tiket Terpercaya (Travel, Tagihan, Pulsa, & Hotel)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
